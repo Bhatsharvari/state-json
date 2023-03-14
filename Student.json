@@ -1,0 +1,33 @@
+[
+    {
+        "student":"Pooja",
+        "id":"13",
+        "yop":"2019",
+        "photo":"https://iheartcraftythings.com/wp-content/uploads/2021/04/Dog-DRAWING-%E2%80%93-STEP-10.jpg",
+        "subject":["Java","SQL","JS"]
+    }
+    ,
+    {
+        "student":"Shivanand",
+        "id":"21",
+        "yop":"2018",
+        "photo":"https://iheartcraftythings.com/wp-content/uploads/2021/06/snake-7.jpg",
+        "subject":["HTML","CSS","JS"]
+    }
+    ,
+    {
+        "student":"Asha",
+        "id":"34",
+        "yop":"2016",
+       "photo":"https://e1.pxfuel.com/desktop-wallpaper/595/1008/desktop-wallpaper-shin-chan-cartoon-most-popular-sinchan-mobile-thumbnail.jpg",
+        "subject":["mongoDB","nodeJS","JS"]
+    }
+    ,
+    {
+        "student":"Kalyani",
+        "id":"13",
+        "yop":"2019",
+      "photo":"https://howtodrawforkids.com/wp-content/uploads/2020/08/how-to-draw-a-cat.jpg",
+        "subject":["Java","SQL","JS"]
+    }
+]
