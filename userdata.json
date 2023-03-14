@@ -1,0 +1,34 @@
+[
+    {
+        "username":"prashika",
+        "Age":25,
+        "skills":["java","SQL","JS"],
+        "occupation":"java developer",
+        "salary":"30,000",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/9/99/Dora_the_Explorer_%28character%29.webp"
+    },
+    {
+        "username":"Pooja",
+        "Age":26,
+        "skills":["HTML","CSS","JS"],
+        "occupation":"Web developer",
+        "salary":"40,000",
+        "photo":"https://www.thenews.com.pk//assets/uploads/magazine/2019-07-09/495580_330612_articl2_magazine.jpg"
+    },
+    {
+        "username":"Asha",
+        "Age":25,
+        "skills":["Python","SQL","MongoDB"],
+        "occupation":"Data Scientist",
+        "salary":"45,000",
+        "photo":"http://trumpwallpapers.com/wp-content/uploads/Shinchan-Wallpaper-01-1920x1080-1.jpg"
+    },
+    {
+        "username":"Sneha",
+        "Age":27,
+        "skills":["java","SQL","HTML","CSS","JS"],
+        "occupation":"Full stack developer",
+        "salary":"30,000",
+        "photo":"https://cdn.shopify.com/s/files/1/0601/2885/4208/products/A1_42_56989d5d-46ff-41b5-92c2-ca93660b122c_288x.jpg?v=1659443970"
+    }
+]
